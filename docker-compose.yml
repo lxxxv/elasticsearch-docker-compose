@@ -228,4 +228,3 @@ volumes:
     driver: local
   kibanadata:
     driver: local
-	
